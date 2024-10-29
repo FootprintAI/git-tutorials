@@ -18,3 +18,6 @@ first exercise (stage 1):
 
 LET ME COMMIT.hahaha
 
+
+git-commit - Record changes to the repository
+Create a new commit containing the current contents of the index and the given log message describing the changes. 
