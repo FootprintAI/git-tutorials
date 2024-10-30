@@ -20,6 +20,10 @@ first exercise (stage 1):
 LET ME COMMIT.hahaha
 
 
+
+#可以將HEAD移至NAME
+git checkout NAME
+
 discard original codes to comply with the newest version
 
 
